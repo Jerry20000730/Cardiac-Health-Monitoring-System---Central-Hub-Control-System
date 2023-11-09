@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Hub</string>
+    <string name="developer_mode">Developer Mode</string>
+    <string name="hub_title">Hub Control System</string>
+    <string name="connect_fail">Connection is failed</string>
+    <string name="notify_fail">Notify Failed</string>
+    <string name="active_disconnected">The device is disconnected actively</string>
+    <string name="passive_disconnected">The device is disconnected passively</string>
+    <string name="please_open_blue">Please turn on the bluetooth, otherwise the scanning will not be effective</string>
+    <string name="please_open_wifi">Please turn on Wi-Fi if you want to transmit your health data</string>
+    <string name="please_open_wifi_for_socket">Please turn on Wi-Fi for binding with Edge</string>
+    <string name="cancel">cancel</string>
+    <string name="setting">Open Settings</string>
+    <string name="gpsNotifyMsg">Bluetooth functionality relies on GPS</string>
+    <string name="notifyTitle">Warning</string>
+    <string name="connect_success">Connection is successful</string>
+    <string name="scanning_start">Scanning...</string>
+    <string name="recording_start">Start Recording...</string>
+    <string name="recording_stop">Recording stopped!</string>
+    <string name="no_connection_battery_level">Not establish connection with sensors, please scan and connect the device first.</string>
+</resources>
