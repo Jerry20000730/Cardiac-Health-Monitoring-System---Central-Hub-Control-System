@@ -29,7 +29,7 @@ After that, you can use Gradle to sync the project, to download the packages you
 
 After the sync of Gradle is finished, you can run the app by pressing _run app_
 
-![run_app](images/run_app.png)
+![run_app](images/run_app_1.png)
 
 ##### Possible Debugging
 
